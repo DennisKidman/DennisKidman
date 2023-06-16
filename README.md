@@ -11,9 +11,9 @@ I am passionate about developing engaging applications and captivating games.
 - **Version Control**: Git, GitHub
 
 ## Projects
-- [Dual.my](https://github.com/akid/project1): A free service that offers users free subdomain hosting, static DNS, and dynamic DNS.
-- [Blok.my](https://github.com/akid/project2): A Malaysia-based forum for youth, aimed at promoting freedom of speech [Coming soon]
-- [Football Manager](https://github.com/akid/project3): Football Manager simulator playable in browser [Coming soon].
+- [Dual.my](https://dual.my/): A free service that offers users free subdomain hosting, static DNS, and dynamic DNS.
+- [Blok.my]: A Malaysia-based forum for youth, aimed at promoting freedom of speech [Coming soon]
+- [Football Manager](https://github.com/DennisKidman/football-man): Football Manager simulator playable in browser [Coming soon].
 
 
 ## Contact Me
