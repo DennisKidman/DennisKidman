@@ -12,7 +12,7 @@ I am passionate about developing engaging applications and captivating games.
 
 ## Projects
 - [Dual.my](https://dual.my/): A free service that offers users free subdomain hosting, static DNS, and dynamic DNS.
-- [Blok.my]: A Malaysia-based forum for youth, aimed at promoting freedom of speech [Coming soon]
+- Blok.my: A Malaysia-based forum for youth, aimed at promoting freedom of speech [Coming soon]
 - [Football Manager](https://github.com/DennisKidman/football-man): Football Manager simulator playable in browser [Coming soon].
 
 
